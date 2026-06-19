@@ -3,3 +3,4 @@ Designation: Associate Software Engineer
 Company: GWC Data.Ai
 
 new modifieds changes are queried 
+new midications are added on this files 
